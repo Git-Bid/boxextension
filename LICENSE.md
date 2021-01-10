@@ -1,6 +1,8 @@
 MIT License
 
-Copyright (c) 2019 Fred K. Schott
+Copyright (c) 2018 Mikhail Iakovlev
+
+Copyright for portions of project chrome-extension-svelte-boilerplate are held by Samuel Simões, 2016 as part of project chrome-extension-webpack-boilerplate. All other copyright for project chrome-extension-svelte-boilerplate are held by Mikhail Iakovlev, 2018.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
